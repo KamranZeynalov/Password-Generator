@@ -1,6 +1,6 @@
 # 🔐 Password Generator (Tkinter)
 
-This was one of my first desktop GUI apps — a simple password generator built using **Python 3.6** and **Tkinter** 🎉
+This was one of my first desktop GUI apps — a simple password generator built using **Python 3.6** and **Tkinter**
 
 The app generates secure passwords based on user preferences:
 - Only letters (uppercase + lowercase)
@@ -24,7 +24,6 @@ The app generates secure passwords based on user preferences:
 - 4 password generation modes
 - Customizable password length
 - Instant password display on screen
-- Clean design (for its time 😄)
 
 ---
 
